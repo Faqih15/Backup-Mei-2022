@@ -1,0 +1,14 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Abdul",
+      "nohp": "33333"
+    },
+    {
+      "id": 2,
+      "nama": "Bayu Sekak",
+      "nohp": "44444"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+2022/01/04-19:07:45.233 13a6 Reusing MANIFEST /home/mujahid/snap/postman/149/.config/Postman/Partitions/afe0b664-0534-48a5-8e0f-4bacd0cd6d01/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/01/04-19:07:45.426 13a6 Level-0 table #5: started
+2022/01/04-19:07:45.483 13a6 Level-0 table #5: 494 bytes OK
+2022/01/04-19:07:45.641 13a6 Delete type=0 #3
+2022/01/04-19:07:45.641 13a6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/04-19:07:45.641 1384 Level-0 table #7: started
+2022/01/04-19:07:45.674 1384 Level-0 table #7: 476 bytes OK
+2022/01/04-19:07:45.726 1384 Delete type=0 #4
+2022/01/04-19:07:45.726 1384 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/04-19:08:22.016 1384 Level-0 table #9: started
+2022/01/04-19:08:22.058 1384 Level-0 table #9: 34686 bytes OK
+2022/01/04-19:08:22.091 1384 Delete type=0 #6
+2022/01/04-19:08:22.091 1384 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2775 : 1
+2022/01/04-19:08:22.091 1384 Compacting 1@0 + 1@1 files
+2022/01/04-19:08:22.133 1384 Generated table #10@0: 1526 keys, 16864 bytes
+2022/01/04-19:08:22.133 1384 Compacted 1@0 + 1@1 files => 16864 bytes
+2022/01/04-19:08:22.164 1384 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/04-19:08:22.165 1384 Delete type=2 #9
+2022/01/04-19:08:22.165 1384 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2775 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

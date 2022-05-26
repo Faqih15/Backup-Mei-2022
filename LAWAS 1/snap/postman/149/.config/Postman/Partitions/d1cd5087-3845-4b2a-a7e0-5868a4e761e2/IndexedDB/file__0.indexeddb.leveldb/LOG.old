@@ -1,0 +1,39 @@
+2022/01/04-19:07:00.928 1383 Reusing MANIFEST /home/mujahid/snap/postman/149/.config/Postman/Partitions/d1cd5087-3845-4b2a-a7e0-5868a4e761e2/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/01/04-19:07:01.061 13da Level-0 table #5: started
+2022/01/04-19:07:01.111 13da Level-0 table #5: 494 bytes OK
+2022/01/04-19:07:01.278 13da Delete type=0 #3
+2022/01/04-19:07:01.279 13da Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/04-19:07:01.302 13da Level-0 table #7: started
+2022/01/04-19:07:01.343 13da Level-0 table #7: 476 bytes OK
+2022/01/04-19:07:01.393 13da Delete type=0 #4
+2022/01/04-19:07:01.396 13da Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/04-19:07:29.538 13da Level-0 table #9: started
+2022/01/04-19:07:29.579 13da Level-0 table #9: 34685 bytes OK
+2022/01/04-19:07:29.605 13da Delete type=0 #6
+2022/01/04-19:07:29.606 13da Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2775 : 1
+2022/01/04-19:07:29.606 13da Compacting 1@0 + 1@1 files
+2022/01/04-19:07:29.646 13da Generated table #10@0: 1526 keys, 16866 bytes
+2022/01/04-19:07:29.646 13da Compacted 1@0 + 1@1 files => 16866 bytes
+2022/01/04-19:07:29.679 13da compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/04-19:07:29.679 13da Delete type=2 #9
+2022/01/04-19:07:29.680 13da Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2775 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/04-19:07:42.789 1383 Level-0 table #12: started
+2022/01/04-19:07:42.839 1383 Level-0 table #12: 221 bytes OK
+2022/01/04-19:07:42.870 1383 Delete type=2 #7
+2022/01/04-19:07:42.870 1383 Delete type=0 #8
+2022/01/04-19:07:42.871 1383 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\xb4\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2852 : 0
+2022/01/04-19:07:42.871 1383 Compacting 1@0 + 1@1 files
+2022/01/04-19:07:42.906 1383 Generated table #13@0: 1526 keys, 16777 bytes
+2022/01/04-19:07:42.906 1383 Compacted 1@0 + 1@1 files => 16777 bytes
+2022/01/04-19:07:42.936 1383 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/04-19:07:42.936 1383 Delete type=2 #10
+2022/01/04-19:07:42.936 1383 Delete type=2 #12
+2022/01/04-19:07:42.937 1383 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\xb4\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2852 : 0 .. (end); will stop at (end)
+2022/01/04-19:07:42.937 13a6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2782 : 1
+2022/01/04-19:07:42.937 13a6 Compacting 1@1 + 1@2 files
+2022/01/04-19:07:42.964 13a6 Generated table #14@1: 588 keys, 9040 bytes
+2022/01/04-19:07:42.965 13a6 Compacted 1@1 + 1@2 files => 9040 bytes
+2022/01/04-19:07:42.993 13a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/04-19:07:42.993 13a6 Delete type=2 #13
+2022/01/04-19:07:42.994 13a6 Delete type=2 #5
+2022/01/04-19:07:42.994 13a6 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2782 : 1 .. (end); will stop at (end)

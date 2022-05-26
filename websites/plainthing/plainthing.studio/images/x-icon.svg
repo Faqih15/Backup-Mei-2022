@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>x icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Plainthing-Website" transform="translate(-1106.000000, -50.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="x-icon" transform="translate(1118.000000, 62.000000) rotate(-45.000000) translate(-1118.000000, -62.000000) translate(1104.000000, 48.000000)">
+                <line x1="14" y1="0" x2="14" y2="28" id="Path-13"></line>
+                <line x1="0" y1="14" x2="28" y2="14" id="Path-13"></line>
+            </g>
+        </g>
+    </g>
+</svg>
